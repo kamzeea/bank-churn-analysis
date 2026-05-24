@@ -1,0 +1,5 @@
+balance_tier,tier_order,total_customers,churned_customers,churn_rate
+high tier,4,497,113,22.74
+low tier,1,1869,299,16.0
+middle tier,2,426,74,17.37
+upper tier,3,2207,560,25.37
