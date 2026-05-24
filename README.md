@@ -25,6 +25,10 @@ In our exploration we found various factors related to churn rate. The ones we d
 - SQL
 - Power BI
 
+## Dashboard
+View the interactive Power BI dashboard here:
+https://app.powerbi.com/groups/me/reports/cec8d2c7-df94-4c61-a396-1ef609752e3a/40a2715f9c9bb2efd4fe?experience=power-bi
+
 ## Project Structure
 - `exploration.ipynb` — data loading, cleaning, SQL analysis
 - `data/` — CSV files
