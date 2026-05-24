@@ -1,8 +1,7 @@
 # Bank Churn Analysis
 
 ## Overview
-A churn analysis was done to understand why a bank's customers leave across age groups, country, and balance tiers.
-
+A churn analysis identifying which customer segments are most at risk of churning and what factors are associated with higher churn rates across product number, age groups, countries, and balance tiers.
 ## Business Question
 Which customer segments are most at risk of churning, and what factors are associated with higher churn rates?
 
