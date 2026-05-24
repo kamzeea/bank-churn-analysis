@@ -4,7 +4,7 @@
 A churn analysis was done to understand why a bank's customers leave across age groups, country, and balance tiers.
 
 ## Business Question
-Why are customers leaving?
+Which customer segments are most at risk of churning, and what factors are associated with higher churn rates?
 
 ## Dataset
 - 4,999 bank customers
@@ -23,7 +23,7 @@ In our exploration we found various factors related to churn rate. The ones we d
 ## Tools Used
 - Python (Pandas, SQLite3)
 - SQL
-- Power BI
+- Power BI 
 
 ## Dashboard
 View the interactive Power BI dashboard here:
